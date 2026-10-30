@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-comos-gateway-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://comos-gateway.com/
+ComOS is a federation of federations enabling businesses to run their own complete digital world—including catalog, customers, and agents—while participating in a broader networked economy. The platform offers customizable, on‑premise solutions that empower enterprises to own their data and integrate seamlessly with partners, delivering scalable, secure, and extensible services for modern commerce.
+
+**Areas:** Company · Federation · OnPremise · Commerce · API
+
+## comos-gateway-com on APIs.io
+
+Everything profiled for comos-gateway-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/comos-gateway-com/](https://apis.io/providers/comos-gateway-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [comos-gateway-com Actions API](https://apis.io/apis/comos-gateway-com/comos-gateway-com-actions-api/) — The actions API from comos-gateway-com — 7 operation(s) for actions.
+- [comos-gateway-com Tools API](https://apis.io/apis/comos-gateway-com/comos-gateway-com-tools-api/) — The Tools API from comos-gateway-com — 121 operation(s) for tools.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Comos Gateway Com Agentic Access](https://apis.io/agentic-access/comos-gateway-com/comos-gateway-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [ToolCallResult](https://apis.io/schemas/comos-gateway-com/comos-gateway-com-tool-call-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Comos Gateway Com Context](https://apis.io/jsonld/comos-gateway-com/comos-gateway-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [comos-gateway-com API Rules](https://apis.io/rules/comos-gateway-com/comos-gateway-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Comos Gateway Com Domain Security](https://apis.io/security/comos-gateway-com/comos-gateway-com-domain-security/)
+- [Comos Gateway Com Vulnerability Disclosure](https://apis.io/security/comos-gateway-com/comos-gateway-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://comos-gateway.com/)
+- [Documentation](https://comos-gateway.com/docs)
+- [Getting started](https://comos-gateway.com/start)
+- [API reference](https://comos-gateway.com/openapi.json)
+- [Pricing](https://comos-gateway.com/pricing)
+- [Support](https://comos-gateway.com/support)
+- [Blog](https://comos-gateway.com/blog)
+- [Security](https://comos-gateway.com/security)
+- [Trust centre](https://comos-gateway.com/trust)
+- [Terms of service](https://comos-gateway.com/terms)
+- [Privacy policy](https://comos-gateway.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 50.6** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 45.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 52.6 |
+
+**Agent readiness 52.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/comos-gateway-com/](https://apis.io/providers/comos-gateway-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for comos-gateway-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/comos-gateway-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
