@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ComOS is a federation of federations enabling businesses to run their own complete digital world—including catalog, customers, and agents—while participating in a broader networked economy. The platform offers customizable, on‑premise solutions that empower enterprises to own their data and integrate seamlessly with partners, delivering scalable, secure, and extensible services for modern commerce.
+ComOS is a federation of federations that enables businesses to run their own complete digital world, including catalogs, customers, and agents, on a machine they own or in the cloud. The platform provides a unified API gateway for managing business data, transactions, and identity across the network, supporting both on-premise and cloud deployments. It aims to create a single economic ledger where each business operates as a node in a shared ecosystem.
 
-**Areas:** Company · Federation · OnPremise · Commerce · API
+**Areas:** Company · API · Gateway · Federation · Business · Platform
 
 ## comos-gateway-com on APIs.io
 
@@ -105,12 +105,19 @@ Spectral rulesets for the provider's contracts.
 
 - [comos-gateway-com API Rules](https://apis.io/rules/comos-gateway-com/comos-gateway-com-rules/)
 
-#### Security (2)
+#### Security (3)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Comos Gateway Com Authentication](https://apis.io/security/comos-gateway-com/comos-gateway-com-authentication/)
 - [Comos Gateway Com Domain Security](https://apis.io/security/comos-gateway-com/comos-gateway-com-domain-security/)
 - [Comos Gateway Com Vulnerability Disclosure](https://apis.io/security/comos-gateway-com/comos-gateway-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Comos Gateway Com Scopes](https://apis.io/scopes/comos-gateway-com/comos-gateway-com-scopes/)
 
 ## Where to find this API
 
@@ -118,7 +125,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://comos-gateway.com/)
 - [Documentation](https://comos-gateway.com/docs)
-- [Getting started](https://comos-gateway.com/start)
+- [Getting started](https://comos-gateway.com/docs)
 - [API reference](https://comos-gateway.com/openapi.json)
 - [Pricing](https://comos-gateway.com/pricing)
 - [Support](https://comos-gateway.com/support)
@@ -130,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 50.6** — developing · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 52.0** — developing · rubric 0.25.0 · scored 2026-10-30
 
 | Facet | Score |
 |---|---|
@@ -167,7 +174,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 
-**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 45.1** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/comos-gateway-com/](https://apis.io/providers/comos-gateway-com/).
 
